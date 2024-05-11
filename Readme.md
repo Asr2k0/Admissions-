@@ -1,10 +1,10 @@
 Readme.md
 
-Research Interest/Problem Statement:
+**Research Interest/Problem Statement:**
 
 The graduate admission process is a multifaceted and crucial aspect of higher education. Aspiring graduate students undergo evaluations based on various factors such as GRE scores, TOEFL scores, undergraduate GPA, statement of purpose, and letters of recommendation. However, there exists a gap in understanding the nuanced impact of these components on the likelihood of admission. This project seeks to address this gap by conducting a comprehensive analysis of graduate admission data, aiming to uncover patterns and relationships among the admission criteria. This particular dataset caught my intrest because I am also a new graduate student at Texas A&M and I also was once an applicant who was confused which factor would contribute the most
 
-Significance of the Project:
+<b>Significance of the Project:</b>
 
 Understanding the intricate relationships between admission criteria and the probability of admission is crucial for both prospective graduate students and university admissions committees. By deciphering the significance of each criterion, this project aims to contribute to the refinement and transparency of the graduate admission process. Providing insights into the factors that significantly influence admission chances can empower applicants to enhance their applications and guide admissions committees in making informed decisions.
 
@@ -47,6 +47,6 @@ In conclusion, "Decoding Graduate Admissions" strives to bring clarity to a comp
 DATA DESCRIPTION
 This dataset, sourced from Kaggle, is tailored for predicting graduate admissions from an Indian perspective. It encompasses various parameters that play a pivotal role in the admission process. The included features are GRE scores, TOEFL scores, undergraduate GPA, Statement of Purpose and Letter of Recommendation Strength, University Rating, Research Experience, and the Chance of Admit.
 
-Dataset Link: Kaggle Graduate Admissions Dataset
+Dataset Link: [Kaggle Graduate Admissions Dataset](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions/data)
 
 This dataset serves as a valuable resource for exploring and modeling the intricate dynamics of graduate admissions, providing insights into the influential factors that contribute to the likelihood of admission.
