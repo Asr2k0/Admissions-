@@ -14,7 +14,7 @@ Theoretical Background:
 
 The theoretical foundation of this project lies in the realm of statistical modeling and predictive analytics. Leveraging machine learning techniques, particularly regression analysis, allows us to explore the complex interactions between different admission criteria and the ultimate chance of admission. Additionally, the project draws on the principles of data science to extract meaningful patterns from a dataset, providing actionable insights for decision-making in the context of graduate admissions.
 
-Project Objectives:
+**Project Objectives:**
 
 Data Analysis: Explore admission data to identify trends and correlations among different components.
 Pattern Recognition: Uncover hidden patterns in the data to understand the nuanced relationships between admission factors.
